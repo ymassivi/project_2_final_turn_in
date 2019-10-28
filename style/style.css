@@ -3,7 +3,7 @@
 /* 5 same style elements*/
 body {
       background-color:  lightyellow;
-    
+      text-align: center;
 }
 
 h1 {
@@ -62,9 +62,9 @@ embed{
 	padding: 30px 120px 30px 650px;
 }
 .nav li {
-  	display: inline;
  	text-align: center;
 }
+
 
   
 }
