@@ -3,7 +3,7 @@
 /* 5 same style elements*/
 body {
       background-color:  lightyellow;
- 
+    
 }
 
 h1 {
@@ -61,14 +61,11 @@ img {
 embed{
 	padding: 30px 120px 30px 650px;
 }
-.nav {
-      border: 1px solid #ccc;
-      border-width: 1px 0;
-      text-align: center;
-      list-style: none;
-      margin: 0;
-      padding: 0;
-      color: red;
+nav li {
+  display: inline;
+  text-align: center;
+}
+
   
 }
 
