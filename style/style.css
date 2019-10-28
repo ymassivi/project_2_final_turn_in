@@ -62,7 +62,12 @@ img {
 embed{
 	padding: 30px 120px 30px 650px;
 }
-
+.nav{
+     border: solid navy;
+     margin: 0;
+     text-align: center;
+     font-family: 'Nanum Gothic',helvetica, sans-serif;
+     background-color: lightblue;
 
 .nav li {
 	display: inline;
