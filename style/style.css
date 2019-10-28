@@ -62,7 +62,7 @@ img {
 embed{
 	padding: 30px 120px 30px 650px;
 }
-.nav{
+nav{
      border: solid navy;
      margin: 0;
      text-align: center;
@@ -70,12 +70,12 @@ embed{
     
   
 
-.nav li {
+nav li {
 	display: inline;
 	text-align: center;
 }
 
-.nav ul {
+nav ul {
   	text-align: center;
 	display: inline;
 }
