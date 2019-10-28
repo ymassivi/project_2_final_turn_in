@@ -65,7 +65,8 @@ embed{
  	text-align: center;
 }
 
-
-  
+.nav ul {
+	display: inline-block;
+  	text-align: center;
 }
 
