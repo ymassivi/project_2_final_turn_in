@@ -22,7 +22,7 @@ h4 {
 }
 h3 {
     color: red;
-    text-align: left;
+    text-align: center;
     font-family: Cambria,Arial;
     font-size: 24px;
     font-style: italic;
@@ -66,8 +66,9 @@ embed{
      border: solid navy;
      margin: 0;
      text-align: center;
-     font-family: 'Nanum Gothic',helvetica, sans-serif;
-     background-color: lightblue;
+     font-family: Cambria,Arial;
+    
+  
 
 .nav li {
 	display: inline;
