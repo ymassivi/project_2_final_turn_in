@@ -53,6 +53,7 @@ strong{
 ul {
     list-style-type: rectangular;
     color: blue;
+    text-align: center;
    
 }
 img {
@@ -65,9 +66,11 @@ embed{
 
 .nav li {
 	display: inline;
+	text-align: center;
 }
 
 .nav ul {
   	text-align: center;
+	display: inline;
 }
 
