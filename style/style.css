@@ -29,7 +29,7 @@ h3 {
 }
 
 p {
-   text-align: left;
+   text-align: center;
    font-family: Cambria,Arial;
    font-size: 20px;
    font-style: normal;
@@ -37,14 +37,14 @@ p {
 	
 }
 h2 {
-    text-align: left;
+    text-align: center;
     font-family: Cambria,Arial;
     font-size: 30px;
     font-style: normal; 
     color: red;
 }
 strong{
-       text-align: left;
+       text-align: center;
        font-family: Cambria,Arial;
        font-size: 24px;
        font-style: normal; 
