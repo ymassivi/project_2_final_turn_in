@@ -5,6 +5,9 @@ body {
       background-color:  lightyellow;
       text-align: center;
       border:bleu;
+ul{
+  list-style-type: none;
+
 }
 
 h1 {
