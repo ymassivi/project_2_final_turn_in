@@ -4,7 +4,7 @@
 body {
       background-color:  lightyellow;
       text-align: center;
-      border:solid bleu;
+      border:bleu;
 }
 
 h1 {
@@ -18,7 +18,7 @@ h4 {
   color: red;
   text-align: center;
   font-family: Cambria,Arial;
-  font-size: 18px;
+  font-size: 10px;
   font-style: italic;
 }
 h3 {
