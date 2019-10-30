@@ -1,6 +1,7 @@
 /* 5 same style elements*/
 body {
-  background-color: grey;
+  background-color: lightyellow;
+  text-align: center;
 }
 
 ul{
@@ -12,7 +13,7 @@ nav{
   border: solid navy;
   margin: 0;
   text-align: center;
-  font-family: 'Nanum Gothic',helvetica, sans-serif;
+  font-family: Cambria,Arial;
   background-color: lightblue;
 
 }
@@ -33,11 +34,11 @@ li, p {
 img {
       padding: 30px 60px 90px 120px;
 }
- embed{
+embed{
       padding: 30px 120px 30px 650px;
 }
 h1, h2, h3, h4{
-  font-family: 'Nanum Gothic',helvetica, sans-serif;
+  font-family: Cambria,Arial;
   text-align:center;
 }
 h1 {
