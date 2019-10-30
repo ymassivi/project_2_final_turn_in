@@ -2,10 +2,7 @@
 body {
   background-color: lightyellow;
 }
-li, p {
-  text-align: center;
-  color: lightblue;
-}
+
 ul{
  list-style-type: rectangular;
  color: blue;
@@ -29,22 +26,37 @@ nav li a{
   padding: 14px 16px;
   text-decoration: none;
 }
-
-
+li, p {
+  text-align: center;
+  color: lightblue;
+}
+img {
+      padding: 30px 60px 90px 120px;
+}
+ embed{
+      padding: 30px 120px 30px 650px;
+}
 h1, h2, h3, h4{
   font-family: 'Nanum Gothic',helvetica, sans-serif;
   text-align:center;
 }
 h1 {
-  font-size: 300%;
+  font-size: 30px;
   padding-top: 1em;
   padding-bottom: 0.5em;
+  color: red;
 }
 h2 {
-  color: lightpink;
+  color: lightblue;
+  font-size: 25px;
 }
 h3 {
-  color: powderblue;
+  color: lightblue;
+  font-size: 20px;
+}
+h4 {
+  color: red;
+  font-size: 15px;
 }
 footer{
   clear: both;
