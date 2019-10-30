@@ -1,12 +1,12 @@
 /* 5 same style elements*/
 body {
-  background-color: green;
+  background-color: blue;
   text-align: center;
 }
 
 ul{
  list-style-type: rectangular;
- color: blue;
+ color: pink;
  text-align: center;
 }
 nav{
@@ -14,7 +14,7 @@ nav{
   margin: 0;
   text-align: center;
   font-family: Cambria,Arial;
-  background-color: yellow ;
+  background-color: grey ;
 
 }
 nav li {
@@ -73,7 +73,7 @@ footer{
   width: 100%;
   margin: 0px 0 0 0;
   line-height: 20px;
-  bottom: 0px;
+  bottom: 10px;
   font-family: Arial;
   
   
