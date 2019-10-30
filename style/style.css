@@ -1,84 +1,51 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
-
 /* 5 same style elements*/
 body {
-      background-color:  lightyellow;
-      text-align: center;
-
-h1 {
-    color: red;
-    text-align: center;
-    font-family: Cambria,Arial;
-    font-size: 25px;
-    font-style: italic;
+  background-color: lightyellow;
 }
-h4 {
-  color: red;
+li, p {
   text-align: center;
-  font-family: Cambria,Arial;
-  font-size: 10px;
-  font-style: italic;
+  color: lightblue;
 }
-h3 {
-    color: red;
-    text-align: center;
-    font-family: Cambria,Arial;
-    font-size: 24px;
-    font-style: italic;
-}
-
-p {
-   text-align: center;
-   font-family: Cambria,Arial;
-   font-size: 20px;
-   font-style: normal;
-   color: blue;
-	
-}
-h2 {
-    text-align: center;
-    font-family: Cambria,Arial;
-    font-size: 25px;
-    font-style: normal; 
-    color: red;
-}
-strong{
-       text-align: center;
-       font-family: Cambria,Arial;
-       font-size: 20px;
-       font-style: normal; 
-       color: red;
-}
-ul {
-    list-style-type: rectangular;
-    color: blue;
-    text-align: center;
-   
-}
-img {
-	padding: 30px 60px 90px 120px;
-}
-embed{
-	padding: 30px 120px 30px 650px;
+ul{
+ list-style-type: rectangular;
+ color: blue;
+ text-align: center;
 }
 nav{
-     
-     margin: 0;
-     text-align: center;
-     font-family: Cambria,Arial;
-    
-  
+  border: solid navy;
+  margin: 0;
+  text-align: center;
+  font-family: 'Nanum Gothic',helvetica, sans-serif;
+  background-color: lightblue;
 
+}
 nav li {
-	display: inline;
-	text-align: center;
+  display: inline;
+  text-align: center;
 }
 
-nav ul {
-  	text-align: center;
-	display: inline;
+nav li a{
+  color: olive;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
+
+h1, h2, h3, h4{
+  font-family: 'Nanum Gothic',helvetica, sans-serif;
+  text-align:center;
+}
+h1 {
+  font-size: 300%;
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+}
+h2 {
+  color: lightpink;
+}
+h3 {
+  color: powderblue;
+}
 footer{
   clear: both;
   position: fixed;
@@ -89,3 +56,4 @@ footer{
   font-family: Arial;
   
 }
+
